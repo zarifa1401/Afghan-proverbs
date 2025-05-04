@@ -1,7 +1,7 @@
-// import type { NextApiRequest, NextApiResponse } from 'next';
+import type { NextApiRequest, NextApiResponse } from 'next';
 import proverbs from '../../../data/proverbs.json';
 
-export default function handler(req: any, res: any) {
+export default function handler(req: NextApiRequest, res: NextApiResponse) {
   const { q } = req.query;
   if (!q) return res.status(400).json({ error: 'Missing query' });
 
