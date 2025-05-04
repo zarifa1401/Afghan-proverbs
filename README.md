@@ -7,7 +7,7 @@ A beautiful Next.js app showcasing Afghan proverbs with:
 - 🎨 Tailwind CSS styling
 
 ## Live Demo
-[View on Vercel](https://afghan-proverbs-6cxql5ste-zarifas-projects.vercel.app/)
+[View on Vercel](https://afghan-proverbs-1z6gxn8i5-zarifas-projects.vercel.app)
 
 ## Run Locally
 1. Clone the repo
