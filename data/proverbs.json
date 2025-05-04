@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "textDari":"در خودت تردید نکن",
+      "textPashto": "په خپل ځای کی خړه نشته",
+      "translationEn": "There is no place like home",
+      "meaning": "Home is the most comfortable place",
+      "category": "wisdom"
+    },
+    {
+      "id": 2,
+      "textDari": "صبر کن که صبر کنی، بهشت خواهی دید",
+      "textPashto": "صبور کړه که صبور یې، جنت به وینې",
+      "translationEn": "Be patient, and you will see paradise",
+      "meaning": "Patience leads to great rewards",
+      "category": "patience"
+    }
+  ]
